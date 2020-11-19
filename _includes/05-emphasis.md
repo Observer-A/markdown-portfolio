@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*“\*”或者“\_”能把文字变斜体*
+
+__“\*\*”或者“\_\_”能把文字加粗__
